@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Test post!
 ---
 
 12-Aug-2018
